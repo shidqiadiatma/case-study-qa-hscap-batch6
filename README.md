@@ -1,0 +1,1 @@
+# case-study-qa-hscap-batch6
