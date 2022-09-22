@@ -9,8 +9,7 @@ class TestLogin(unittest.TestCase):  # TEST SCENARIO
 
     def setUp(self):
         self.browser = webdriver.Chrome(ChromeDriverManager().install())
-        # self.driver = webdriver.Chrome(executable_path='C:\Sanbercode-QA-Final_Project\Shidqi-Adiatma\chromedriver.exe')
-
+        
     # Success login with valid Email and Password
     def test_01_success_login(self):
         # steps
